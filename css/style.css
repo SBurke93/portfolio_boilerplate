@@ -24,7 +24,7 @@ html, body {
 
 /* -------- typewriter effect --------- */
 .line {
-    width: 37em;
+    width: 24em;
     top: 50%;
     margin: auto;
     border-right: 2px solid rgba(255, 255, 255, 0.75);
@@ -284,6 +284,8 @@ nav #menu li a:hover {
     }
 }
 
+
+
 /* -------- project section --------- */
 h6 {
     text-align: center;
@@ -376,7 +378,7 @@ h6 {
 @media(max-width: 768px) {
     .project {
         width: 90% !important;
-        margin-top: 14px auto;
+        margin: 14px auto;
     }
 
     .vertical {
@@ -387,6 +389,10 @@ h6 {
         display: none;
     }
 }
+
+
+
+
 
 /* -------- footer section --------- */
 
@@ -480,7 +486,7 @@ h6 {
     }
 
     .info ul {
-        margin: 0 0 0 -22px;
+        margin: 0 0 0 -10px;
         padding: 0;
     }
 }
