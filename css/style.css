@@ -22,6 +22,11 @@ html, body {
 }
 
 
+
+
+
+
+
 /* -------- typewriter effect --------- */
 .line {
     width: 24em;
@@ -67,6 +72,11 @@ html, body {
         border-right-color: transparent;
     }
 }
+
+
+
+
+
 
 
 /* -------- navigation --------- */
@@ -229,6 +239,11 @@ nav #menu li a:hover {
     }
 }
 
+
+
+
+
+
 /*--------------- hero section --------------- */
 .hero {
     height: 100vh;
@@ -249,6 +264,11 @@ nav #menu li a:hover {
           font-size: 26px;
     }
 }
+
+
+
+
+
 
 /*--------------- scroll down icon animation --------------- */
 .scroll-down {
@@ -283,6 +303,8 @@ nav #menu li a:hover {
           opacity: 0;
     }
 }
+
+
 
 
 
@@ -395,7 +417,6 @@ h6 {
 
 
 /* -------- footer section --------- */
-
 .collab {
     text-align: right;
 
@@ -422,9 +443,9 @@ h6 {
 }
 
 
+
+
 /* -------- contact form --------- */
-
-
 #fb::before {
     display: inline-block;
     content: '';
@@ -492,6 +513,10 @@ h6 {
     }
 }
 
+
+
+
+
 /*---- work page ----*/
 .hero-content {
     margin-left: 0%;
@@ -516,6 +541,12 @@ h6 {
 }
 
 /*---- about page ----*/
+.about {
+    height: 500px;
+    margin-top: 120px;
+}
 
-
+.image {
+    background: url(https://images.unsplash.com/photo-1526378787940-576a539ba69d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80) no-repeat 50% 70%;
+}
 /*---- contact form ----*/
